@@ -22,7 +22,7 @@ For instance segmentation, we utilize Detic, a powerful tool designed for precis
 
 - **Binary Mask**: Shows a simplified, binary view of the segmented areas, enhancing clarity for processing.
 
-![Binary Mask](./rkulkarni1_p3ph1/segmentation_masks_using_detic/segmentation_images_seq4/4.jpg)
+![Binary Mask](./rkulkarni1_p3ph1/binary_masks_using_detic/binary_images_seq4/4.jpg_binary_mask.jpg)
 
 ### Lane Detection with CLRNet
 
